@@ -34,7 +34,7 @@ Seeking challenging roles in **VLSI Design**, **RTL Verification**, **FPGA-Based
 
 ## 📄 Resume
 
-📥 [Click here to view/download my resume](./resume.pdf)
+📥 [Click here to view/download my resume](./RITIKA ROY RESUME.pdf)
 
 ---
 
