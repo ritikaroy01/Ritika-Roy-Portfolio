@@ -31,10 +31,8 @@ Seeking challenging roles in **VLSI Design**, **RTL Verification**, **FPGA-Based
 | [Step Counter with micro:bit](https://github.com/ritikaroy01/Microbit-Step-Counter) | Python + Embedded | Simple pedometer using micro:bit accelerometer with real-time display |
 
 ---
-
-## 📄 Resume
-
-📥 [Click here to view/download my resume](./[RITIKA ROY RESUME.pdf])
+## 📄 Resume 📥  
+[Click here to view/download my resume](./RITIKA%20ROY%20RESUME.pdf)
 
 ---
 
